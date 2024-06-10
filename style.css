@@ -1,0 +1,23 @@
+:root{
+  --background-primary: #e0edff;
+}
+
+.jumbotron{
+    padding-top: 6rem;
+    background-color: #e0edff;
+}
+*{
+  font-family: "Poppins", sans-serif;
+}
+.navbar-brand, .jumbotron h1{
+    font-weight: 600;
+}
+#projects{
+  padding-top: 6rem;
+  background-color: var(--background-primary);
+}
+#contact, #about{
+  padding-top: 6rem;
+}
+
+
